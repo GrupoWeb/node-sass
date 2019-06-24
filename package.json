@@ -20,7 +20,7 @@
   },
   "main": "lib/index.js",
   "nodeSassConfig": {
-    "binarySite": "https://github.com/sass/node-sass/releases/download"
+    "binarySite": "https://github.com/sass/node-sass/releases"
   },
   "bin": {
     "node-sass": "bin/node-sass"
